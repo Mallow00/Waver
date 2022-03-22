@@ -1,0 +1,12 @@
+LISTA DI ASSUNZIONI RIGUARDO ALLO SCHEMA
+
+1. Un utente che non è premium non può essere anche un publisher (aka Artista)
+2. Un utente non può inserire un intero album in una specifica playlist ma solo singole canzoni
+3. Un utente che sia free o premium non può avere due playlist con lo stesso titolo
+4. Una canzone di un artista compare in un unico album (dell'artista) o in nessuno
+5. Non esistono album, canzoni o playlist che hanno più di un genere  
+
+
+
+RIDONDANZE:
+1. Una ridondanza potrebbe essere quella sull'attributo durata di un album.
